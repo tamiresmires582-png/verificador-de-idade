@@ -2,7 +2,6 @@
 
 Este projeto é uma ferramenta interativa que calcula a idade de uma pessoa com base no ano de nascimento informado e exibe uma imagem correspondente ao sexo e à faixa etária detectada.
 
-![Demonstração do Projeto](Captura%20de%20tela%202026-04-23%20151121.png)
 
 ## 🚀 Tecnologias Utilizadas
 * **HTML5** (Estrutura)
